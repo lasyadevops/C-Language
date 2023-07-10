@@ -2,7 +2,12 @@
 #include<Stdlib.h>
 void main()
 {
-	int i,n,sum=0;
+	int i,number;
 	system("clear");
-	printf("\n enter how many numbers you want to sum
+	printf("\n enter ho many numbers you want to print");
+         scanf("%d",number); 
+{
+         for(i=1;i<=number;i++)
+}
+}
 
