@@ -3,7 +3,7 @@
 
 void main()
 {
-	char c[]="cherry";
+	char c[50]="bomma";
 	system("clear");
 	printf("%s",c);
 }

@@ -3,8 +3,8 @@
 
 void main()
 {
-        char c[]="cherry";
+        char c[50]="bomma";
         system("clear");
-        printf("%\n %s is a given string \n\n\n",c);
+        printf("\n %s is given string \n\n\n",c);
 }
 
