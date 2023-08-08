@@ -1,4 +1,4 @@
-#include<staio.h>
+#include<stdio.h>
 #include<Stdlib.h>
 void main()
 {
