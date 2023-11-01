@@ -64,7 +64,7 @@ break;
 	scanf("%d",&number);
 	for(i=0;i<=number;i++)
 	{
-		printf("\n thr natural numbers %d\n");
+		printf("\n the natural numbers %d\n");
 	}
 }
 break;
